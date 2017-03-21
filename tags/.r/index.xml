@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.R on Sri Yogesh</title>
+    <link>/tags/.r/index.xml</link>
+    <description>Recent content in .R on Sri Yogesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Sri Yogesh</copyright>
+    <atom:link href="/tags/.r/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EXPLORE AND SUMMARIZE DATA IN R</title>
+      <link>/project/EXPLORE%20AND%20SUMMARIZE%20DATA%20IN%20R/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/EXPLORE%20AND%20SUMMARIZE%20DATA%20IN%20R/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Report on the Retrospective analysis of Patient Adherence</title>
+      <link>/project/Preliminary%20Report%20on%20the%20Retrospective%20analysis%20of%20Patient%20Adherence/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/Preliminary%20Report%20on%20the%20Retrospective%20analysis%20of%20Patient%20Adherence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

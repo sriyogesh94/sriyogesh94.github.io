@@ -36,7 +36,7 @@
     
     
     <url>
-      <loc>/project/deep-learning/</loc>
+      <loc>/project/EXPLORE%20AND%20SUMMARIZE%20DATA%20IN%20R/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -44,7 +44,31 @@
     
     
     <url>
-      <loc>/project/example-external-project/</loc>
+      <loc>/project/INVESTIGATE%20A%20DATASET%20IN%20PYTHON/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/project/PREDICTING%20THE%20DOMAIN%20OF%20TEXT%20DATA%20IN%20PYTHON/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/project/Preliminary%20Report%20on%20the%20Retrospective%20analysis%20of%20Patient%20Adherence/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/project/TEST%20A%20PERCEPTUAL%20PHENOMENON/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -116,6 +140,51 @@
     
     
     <url>
+      <loc>/tags/index.data-science/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/index.demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/index.python/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/index.r/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/index.text-mining/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -135,24 +204,6 @@
     
     <url>
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

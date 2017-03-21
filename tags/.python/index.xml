@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.Python on Sri Yogesh</title>
+    <link>/tags/.python/index.xml</link>
+    <description>Recent content in .Python on Sri Yogesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Sri Yogesh</copyright>
+    <atom:link href="/tags/.python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>INVESTIGATE A DATASET IN PYTHON</title>
+      <link>/project/INVESTIGATE%20A%20DATASET%20IN%20PYTHON/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/INVESTIGATE%20A%20DATASET%20IN%20PYTHON/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PREDICTING THE DOMAIN OF TEXT DATA IN PYTHON</title>
+      <link>/project/PREDICTING%20THE%20DOMAIN%20OF%20TEXT%20DATA%20IN%20PYTHON/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/PREDICTING%20THE%20DOMAIN%20OF%20TEXT%20DATA%20IN%20PYTHON/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
