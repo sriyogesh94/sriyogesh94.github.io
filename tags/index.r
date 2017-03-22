@@ -150,15 +150,6 @@
     </div>
   </div>
   
-  <div>
-    <h2><a href="/project/Preliminary%20Report%20on%20the%20Retrospective%20analysis%20of%20Patient%20Adherence/">Preliminary Report on the Retrospective analysis of Patient Adherence</a></h2>
-    <div class="article-style">
-      
-      This is a preliminary report I created to measure and predict patient adherence on a retrospective dataset
-      
-    </div>
-  </div>
-  
 
   
 

@@ -150,15 +150,6 @@
     </div>
   </div>
   
-  <div>
-    <h2><a href="/project/PREDICTING%20THE%20DOMAIN%20OF%20TEXT%20DATA%20IN%20PYTHON/">PREDICTING THE DOMAIN OF TEXT DATA IN PYTHON</a></h2>
-    <div class="article-style">
-      
-      Investigated a dataset in a pandas dataframe, tokenized the text and used a Naïve Bayes Classifier to predict the domain of a given text.
-      
-    </div>
-  </div>
-  
 
   
 

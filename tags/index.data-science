@@ -150,42 +150,6 @@
     </div>
   </div>
   
-  <div>
-    <h2><a href="/project/INVESTIGATE%20A%20DATASET%20IN%20PYTHON/">INVESTIGATE A DATASET IN PYTHON</a></h2>
-    <div class="article-style">
-      
-      Posed a question about a dataset, then used NumPy and Pandas to answer that question based on the data and created a report to share the results.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/PREDICTING%20THE%20DOMAIN%20OF%20TEXT%20DATA%20IN%20PYTHON/">PREDICTING THE DOMAIN OF TEXT DATA IN PYTHON</a></h2>
-    <div class="article-style">
-      
-      Investigated a dataset in a pandas dataframe, tokenized the text and used a Naïve Bayes Classifier to predict the domain of a given text.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/Preliminary%20Report%20on%20the%20Retrospective%20analysis%20of%20Patient%20Adherence/">Preliminary Report on the Retrospective analysis of Patient Adherence</a></h2>
-    <div class="article-style">
-      
-      This is a preliminary report I created to measure and predict patient adherence on a retrospective dataset
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/TEST%20A%20PERCEPTUAL%20PHENOMENON/">TEST A PERCEPTUAL PHENOMENON</a></h2>
-    <div class="article-style">
-      
-      Analyzed the Stroop effect using descriptive statistics to provide an intuition about the data, and inferential statistics to draw a conclusion based on the results.
-      
-    </div>
-  </div>
-  
 
   
 
